@@ -179,6 +179,6 @@ conn.logger.level = 'debug'
 
  [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
 ----|----
-[AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX)
+[AlyaXd](https://github.com/AlyaaXd) | [CANDRA](https://github.com/canzihhh)
  Creator | Creator
 
