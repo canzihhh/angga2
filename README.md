@@ -69,7 +69,7 @@ Simple WhatsApp Bot
 
  [`AlyaXzy`](https://wa.me/6289505165400)
 
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`ZAAN`](https://wa.me/6282226395964)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
