@@ -1,0 +1,123 @@
+{
+  "users": {
+    "62881010076886@s.whatsapp.net": {
+      "exp": 32,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "CANDRA_ZAAN",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 0,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    },
+    "6289670004720@s.whatsapp.net": {
+      "exp": 169,
+      "limit": 10,
+      "registered": false,
+      "lastclaim": 0,
+      "name": "Erlangga‡",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "autolevelup": false,
+      "banned": false,
+      "level": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "role": "Hyaktaku V",
+      "joincount": 0,
+      "call": 0,
+      "pc": 1649648426061,
+      "reward": 0,
+      "dailyReward": 0,
+      "warning": 0
+    }
+  },
+  "chats": {
+    "6289670004720@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiLink": true,
+      "autoread": false,
+      "broadcast": true,
+      "delete": true,
+      "desc": true,
+      "getmsg": false,
+      "expired": 0,
+      "stiker": false,
+      "viewonce": true,
+      "nsfw": true,
+      "badword": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1649650590929,
+      "lastSuccess": 1649650590929
+    },
+    "botstat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1649649920084,
+      "lastSuccess": 1649649920084
+    },
+    "tqto.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1649648463471,
+      "lastSuccess": 1649648463471
+    },
+    "snk.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1649650550335,
+      "lastSuccess": 1649650550335
+    },
+    "sewabot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1649650159348,
+      "lastSuccess": 1649650159348
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "62881010076886@s.whatsapp.net": {
+      "anon": true,
+      "anticall": true,
+      "antispam": true,
+      "antitroli": true,
+      "group": false,
+      "jadibot": false,
+      "private": false,
+      "restrict": false,
+      "self": false,
+      "backup": true,
+      "backupDB": 1649648391532,
+      "statusUpdate": false,
+      "status": 1649650633657
+    }
+  }
+}
